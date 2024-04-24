@@ -10,7 +10,7 @@ public class ComparableVSComparator {
 		
 //		    comparable                                                    comparator
 		
-//         comparable is a interface -> java.lang		              comparator is a interface -> java.Util
+//        comparable is a interface -> java.lang		              comparator is a interface -> java.Util
 //		  it is used to compare cuurent object with another           it is used for comparing two objects 
 //		  Object
 //		  compareTo(Object obj);                                                 compare(Object obj1, Object obj2);

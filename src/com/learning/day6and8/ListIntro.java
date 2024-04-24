@@ -29,7 +29,6 @@ public class ListIntro {
 		  System.out.println(names);
 		  System.out.println(names.remove(0));
 		  System.out.println(names);
-		  
 		  names.add(1, "ana");
 		  System.out.println(names);
 		  

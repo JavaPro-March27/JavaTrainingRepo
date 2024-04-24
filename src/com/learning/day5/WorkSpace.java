@@ -67,11 +67,14 @@ public class WorkSpace {
                 
                 System.out.println(table1.toString());
                 System.out.println(table2.toString());
+                
+                System.out.println(table1 == table2);
+                
                 System.out.println(table1.equals(table2));
                 
-                System.out.println(table2.hashCode());
-                System.out.println(table2.getClass());
-                Table table2Copy = table2;
+//                System.out.println(table2.hashCode());
+//                System.out.println(table2.getClass());
+//                Table table2Copy = table2;
                 
                 
                 
