@@ -161,7 +161,9 @@ public class Java8features {
            }
           
            
-           Optional<String> optionalS5 =  Optional.ofNullable(strAry[5]);
+           Optional<String> optionalS5 =  Optional.of(strAry[5]);
+           
+ 
           
  //		7. Collectors Class
 //		8. IO, JDBC , Arrays, ForEach(), JavaScript Engine.
@@ -169,6 +171,10 @@ public class Java8features {
 		
 		
 		
+           
+      //    int 123, 123456
+           
+      //    int  321,  654321
 
 	}
 
